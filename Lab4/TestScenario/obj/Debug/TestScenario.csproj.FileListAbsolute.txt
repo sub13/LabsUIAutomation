@@ -1,0 +1,16 @@
+C:\Users\howard\Desktop\02\TestRun\TestScenario\bin\Debug\TestScenario.exe
+C:\Users\howard\Desktop\02\TestRun\TestScenario\bin\Debug\TestScenario.pdb
+C:\Users\howard\Desktop\02\TestRun\TestScenario\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\howard\Desktop\02\TestRun\TestScenario\obj\Debug\TestScenario.exe
+C:\Users\howard\Desktop\02\TestRun\TestScenario\obj\Debug\TestScenario.pdb
+D:\TestRun\TestScenario\bin\Debug\TestScenario.exe
+D:\TestRun\TestScenario\bin\Debug\TestScenario.pdb
+D:\TestRun\TestScenario\obj\Debug\TestScenario.csprojAssemblyReference.cache
+D:\TestRun\TestScenario\obj\Debug\TestScenario.exe
+D:\TestRun\TestScenario\obj\Debug\TestScenario.pdb
+C:\Users\Sergey\Desktop\lab4UIAutomation(2)\lab4UIAutomation\TestScenario\bin\Debug\TestScenario.exe
+C:\Users\Sergey\Desktop\lab4UIAutomation(2)\lab4UIAutomation\TestScenario\bin\Debug\TestScenario.pdb
+C:\Users\Sergey\Desktop\lab4UIAutomation(2)\lab4UIAutomation\TestScenario\obj\Debug\TestScenario.csprojAssemblyReference.cache
+C:\Users\Sergey\Desktop\lab4UIAutomation(2)\lab4UIAutomation\TestScenario\obj\Debug\TestScenario.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\lab4UIAutomation(2)\lab4UIAutomation\TestScenario\obj\Debug\TestScenario.exe
+C:\Users\Sergey\Desktop\lab4UIAutomation(2)\lab4UIAutomation\TestScenario\obj\Debug\TestScenario.pdb

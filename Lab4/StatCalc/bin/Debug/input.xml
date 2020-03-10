@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Tests>
+      <test1>
+        <perem1>30</perem1>
+        <perem2>60</perem2>
+      </test1>
+      <test2>
+        <perem1>-32</perem1>
+        <perem2>10</perem2>
+      </test2>
+      <test3>
+        <perem1>7</perem1>
+        <perem2>22414124</perem2>
+      </test3>     
+</Tests>

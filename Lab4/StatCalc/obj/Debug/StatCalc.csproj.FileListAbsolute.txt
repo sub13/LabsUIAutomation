@@ -1,0 +1,17 @@
+D:\TestRun\StatCalc\bin\Debug\StatCalc.exe
+D:\TestRun\StatCalc\bin\Debug\StatCalc.pdb
+D:\TestRun\StatCalc\obj\Debug\StatCalc.csprojAssemblyReference.cache
+D:\TestRun\StatCalc\obj\Debug\StatCalc.Form1.resources
+D:\TestRun\StatCalc\obj\Debug\StatCalc.Properties.Resources.resources
+D:\TestRun\StatCalc\obj\Debug\StatCalc.csproj.GenerateResource.cache
+D:\TestRun\StatCalc\obj\Debug\StatCalc.exe
+D:\TestRun\StatCalc\obj\Debug\StatCalc.pdb
+C:\Users\Sergey\Desktop\lab4UIAutomation(2)\lab4UIAutomation\StatCalc\bin\Debug\StatCalc.exe
+C:\Users\Sergey\Desktop\lab4UIAutomation(2)\lab4UIAutomation\StatCalc\bin\Debug\StatCalc.pdb
+C:\Users\Sergey\Desktop\lab4UIAutomation(2)\lab4UIAutomation\StatCalc\obj\Debug\StatCalc.csprojAssemblyReference.cache
+C:\Users\Sergey\Desktop\lab4UIAutomation(2)\lab4UIAutomation\StatCalc\obj\Debug\StatCalc.Form1.resources
+C:\Users\Sergey\Desktop\lab4UIAutomation(2)\lab4UIAutomation\StatCalc\obj\Debug\StatCalc.Properties.Resources.resources
+C:\Users\Sergey\Desktop\lab4UIAutomation(2)\lab4UIAutomation\StatCalc\obj\Debug\StatCalc.csproj.GenerateResource.cache
+C:\Users\Sergey\Desktop\lab4UIAutomation(2)\lab4UIAutomation\StatCalc\obj\Debug\StatCalc.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\lab4UIAutomation(2)\lab4UIAutomation\StatCalc\obj\Debug\StatCalc.exe
+C:\Users\Sergey\Desktop\lab4UIAutomation(2)\lab4UIAutomation\StatCalc\obj\Debug\StatCalc.pdb

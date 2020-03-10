@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Results>
+  <test1>
+    <title>Тестирование1: умножение двух чисел!</title>
+    <results>1800,0000</results>
+  </test1>
+  <test2>
+    <title>Тестирование2: сложение двух чисел!</title>
+    <results>-182,0000</results>
+  </test2>
+  <test3>
+    <title>Тестирование3: умножение двух чисел!</title>
+    <results>-10001,0000</results>
+  </test3>
+</Results>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Tests>
+      <test1>
+        <title>Тестирование1: умножение двух чисел!</title>
+        <perem1>30</perem1>
+        <perem2>60</perem2>
+      </test1>
+      <test2>
+        <title>Тестирование2: сложение двух чисел!</title>
+        <perem1>-232</perem1>
+        <perem2>50</perem2>
+      </test2>
+      <test3>
+        <title>Тестирование3: умножение двух чисел!</title>
+        <perem1>-2</perem1>
+        <perem2>-9999</perem2>
+      </test3>     
+</Tests>

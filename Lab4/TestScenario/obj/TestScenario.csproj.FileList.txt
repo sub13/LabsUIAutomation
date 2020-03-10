@@ -1,0 +1,5 @@
+bin\Debug\TestScenario.exe
+bin\Debug\TestScenario.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TestScenario.exe
+obj\Debug\TestScenario.pdb
